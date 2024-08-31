@@ -8,9 +8,11 @@ To clone the repository and start the development server, follow these steps:
    ```bash
    git clone https://github.com/shalini-413/NODE_MYSQL_CRUD_PROJECT.git
 
-2. ## Install Dependencies
+2. **Install Dependencies:**
+   ```bash
     npm install
 
 
-3. ## Run the Development Server
+3. **Run the Development Server:**
+   ```bash
     ng serve
