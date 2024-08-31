@@ -18,5 +18,5 @@ To clone the repository and start the development server, follow these steps:
 
 
 
-This will display "Happy Coding!" with a smiling emoji at the end.
+## Happy coding! 😊
 
