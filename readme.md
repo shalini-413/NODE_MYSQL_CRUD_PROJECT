@@ -12,7 +12,11 @@ To clone the repository and start the development server, follow these steps:
    ```bash
     npm install
 
-
 3. **Run the Development Server:**
    ```bash
     ng serve
+
+
+
+This will display "Happy Coding!" with a smiling emoji at the end.
+
