@@ -1,0 +1,1 @@
+# A NODE_MYSQL_CRUD mini project
